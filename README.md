@@ -1,3 +1,6 @@
+<!-- Background image -->
+<div style="background-image: url('https://example.com/background.jpg');">
+
 # Hello, I'm Yar! 👋
 
 Welcome to my GitHub profile! Here you'll find a collection of projects I've worked on and some fun content. Feel free to explore and reach out if you have any questions or collaboration ideas.
