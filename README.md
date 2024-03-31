@@ -1,5 +1,5 @@
 <!-- Background image -->
-<div style="background-image: url('https://example.com/background.jpg');">
+<div style="background-image: url('background.jpg');">
 
 # Hello, I'm Yar! 👋
 
