@@ -1,5 +1,5 @@
 <!-- Background image -->
-<div style="background-image: url('https://github.com/yarmahmood/README.md/raw/main/background (2).jpg');">
+<div style="background-image: url('https://raw.githubusercontent.com/yarmahmood/your-repo/main/background%20(2).jpg'); background-size: cover; height: 300px;">
 
 
 # Hello, I'm Yar! 👋
