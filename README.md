@@ -1,12 +1,15 @@
-### Hi there 👋
+# Hello, I'm Yar!
 
-<!--
-**Yarmahmood/yarmahmood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here you'll find a collection of projects I've worked on and some fun content. Feel free to explore and reach out if you have any questions or collaboration ideas.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on my personal portfolio website 
-- 🌱 I’m currently learning html, css, js 
-- 👯 I’m looking to collaborate on ...
-- 😄 Pronouns: She/her
--->
+I'm a technology passionate about and coding. I love to photography coding and biking.
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/yarmahmood/)
+  
+Feel free to connect with me on other platforms too!
+
+
