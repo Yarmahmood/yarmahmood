@@ -8,9 +8,10 @@ I'm a technology enthusiast passionate about coding and photography 📷. I love
 
 ## Skills
 
-- <span style="color: #FF5733; font-weight: bold;">HTML</span>
-- <span style="color: #FF5733; font-weight: bold;">CSS</span>
-- <span style="color: #FF5733; font-weight: bold;">VB.NET</span>
+
+- <i class="fab fa-html5" style="color: #E34F26;"></i> HTML
+- <i class="fab fa-css3-alt" style="color: #1572B6;"></i> CSS
+- <i class="fab fa-css3-alt" style="color: #1572B6;"></i> VB.net
 
 ## Connect with Me
 
